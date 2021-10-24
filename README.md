@@ -16,3 +16,18 @@ The code of template-free and template-based classifiers is available in the fol
 This repository contains the source codes of Ensemble of Template-Free and Template-Based Classifiers for Protein Secondary Structure Prediction, as given in the paper:
 
 Gabriel Bianchin de Oliveira, Helio Pedrini, Zanoni Dias. "Ensemble of Template-Free and Template-Based Classifiers for Protein Secondary Structure Prediction". International Journal of Molecular Sciences, 22(21), 11449.
+
+```
+@article{ijms222111449,
+AUTHOR = {Oliveira, Gabriel Bianchin de and Pedrini, Helio and Dias, Zanoni},
+TITLE = {Ensemble of Template-Free and Template-Based Classifiers for Protein Secondary Structure Prediction},
+JOURNAL = {International Journal of Molecular Sciences},
+VOLUME = {22},
+YEAR = {2021},
+NUMBER = {21},
+ARTICLE-NUMBER = {11449},
+URL = {https://www.mdpi.com/1422-0067/22/21/11449},
+ISSN = {1422-0067},
+DOI = {10.3390/ijms222111449}
+}
+```
